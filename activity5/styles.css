@@ -1,6 +1,6 @@
 #header_left
 {
-	background-image: url("Images/jna_header.png");
+	background-image: url("https://raw.githubusercontent.com/sarteapple/itel-203/main/activity5/jna_header.png");
 	background-size: cover;
 	text-align:center;
 	width: 500px;
@@ -122,7 +122,7 @@
 {
 	height: 400px;
 	min-height: 400px;
-	background-image: url("Images/jan_au_bg.png");
+	background-image: url("https://raw.githubusercontent.com/sarteapple/itel-203/main/activity5/jan_au_bg.png");
 	text-align: center;
 	background-size: cover;
 }
