@@ -1,0 +1,222 @@
+#header_left
+{
+	background-image: url("Images/jna_header.png");
+	background-size: cover;
+	text-align:center;
+	width: 500px;
+	height: 500px;
+	min-width: 500px;
+	background-color: pink;
+}
+
+#header_right
+{
+	text-align:center;
+	max-height: 500px;
+	height: 500px;
+	padding-top: 200px;
+	width: 500px;
+	min-width: 500px;
+}
+
+
+#home_button
+{
+	background-color: #222222;
+  	border: 0px;
+  	color: white;
+  	padding: 15px 32px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	font-size: 16px;
+}
+
+
+#sn_button
+{
+	background-color: #222222;
+  	border: 0px;
+  	color: white;
+  	padding: 15px 32px;
+  	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+  	font-size: 16px;
+  	width: 200px;
+}
+
+#hr_top
+{
+	width: 300px;
+	height: 8px;
+	border-width: 0px;
+	vertical-align: bottom;
+	background-color: white;
+	margin-top: 160px;
+}
+
+#hr_bot
+{
+	width: 300px;
+	height: 8px;
+	border-width: 0px;
+	vertical-align: bottom;
+	background-color: white;
+}
+
+#spacer
+{
+	max-height: 200px;
+	min-height: 200px;
+	background-color: rebeccapurple;
+	background-color: #A78C7D;
+}
+
+
+#jna_products
+{
+	height: 460px;
+	padding-top: 90px;
+	text-align: center;
+	min-width: 300px;
+}
+
+
+#pr_img
+{
+	height: 200px;
+	width: 200px;
+}
+
+
+#pr_stars
+{
+	color: #F6B649;
+	margin-top: -20px;
+}
+
+
+#spacer_moreprod
+{
+	max-height: 100px;
+	min-height: 100px;
+	text-align: center;
+}
+
+#more_button
+{
+	background-color: #A78C7D;
+  	border: 0px;
+  	color: white;
+  	padding: 15px 32px;
+  	text-align: center;
+  	text-decoration: none;
+  	font-size: 16px;
+  	text-align: center;
+  	width: 300px;
+}
+
+
+#jna_au
+{
+	height: 400px;
+	min-height: 400px;
+	background-image: url("Images/jan_au_bg.png");
+	text-align: center;
+	background-size: cover;
+}
+
+
+#h3_wwo
+{
+	margin-top: 160px;
+}
+
+
+#jna_au_2
+{
+	height: 400px;
+	min-height: 400px;
+	text-align: center;
+	background-size: cover;
+	text-align: center;
+}
+
+
+#h3_wwo_2
+{
+	margin-top: 130px;
+
+}
+
+
+#jna_au_3
+{
+	height: 400px;
+	min-height: 400px;
+	text-align: center;
+	background-size: cover;
+	text-align: center;
+	background-color: #222222;
+}
+
+
+#h3_wwo_3
+{
+	margin-top: 150px;
+}
+
+
+#jna_socmed
+{
+	max-height: 30px;
+}
+
+
+#btn_newsletter
+{
+	background-color: #222222;
+  	border: 0px;
+  	color: white;
+  	padding: 7.5px 16px;
+  	text-align: center;
+  	text-decoration: none;
+  	font-size: 10px;
+  	text-align: center;
+  	width: 200px;
+}
+
+#div_ftr
+{
+	padding-top: 50px;
+	height: 250px;
+	width: 600px;
+	min-width: 300px;
+}
+
+
+#pr_p
+{
+	text-align: center;
+}
+
+h4, h3
+{
+	text-align: center;
+}
+
+#white-space-div
+{
+	max-height: 100px;
+	min-height: 100px;
+	text-align: center;
+	background-color: #A78C7D;
+}
+
+
+
+h5#pr_price
+{
+
+}
